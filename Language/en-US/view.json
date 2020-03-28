@@ -105,21 +105,21 @@
       "WeaponMake": "Weapon Forging"
     },
     "Armor": {
-      "Armor": "Equipment",
-      "ArmorMake": "Equipment Forging"
+      "Armor": "Armor",
+      "ArmorMake": "Armor Forging"
     },
     "Weaponrecipe": {
       "Number": "Weapon ID",
       "Type": "Weapon Type",
       "wus_wz": "unknown",
       "item1": "Material 1",
-      "item1quantity": "Material 1 Quantity",
+      "item1quantity": "Mat 1 Quantity",
       "item2": "Material 2",
-      "item2quantity": "Material 2 Quantity",
+      "item2quantity": "Mat 2 Quantity",
       "item3": "Material 3",
-      "item3quantity": "Material 3 Quantity",
+      "item3quantity": "Mat 3 Quantity",
       "item4": "Material 4",
-      "item4quantity": "Material 4 Quantity",
+      "item4quantity": "Mat 4 Quantity",
       "Unlock": "Unlock condition"
     },
     "Armorrecipe": {
@@ -229,8 +229,8 @@
     "Equipment": {
       "Number": "Equipment ID",
       "Type": "Equipment Type",
-      "Equipment_model": "幻化ID",
-      "Variant": "特型",
+      "Equipment_model": "Model ID",
+      "Variant": "Special Type",
       "Patience1": "Fire Resistance",
       "Patience2": "Water Resistance",
       "Patience3": "Ice Resistance",
