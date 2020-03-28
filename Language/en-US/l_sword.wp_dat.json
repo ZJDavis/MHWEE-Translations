@@ -1,0 +1,853 @@
+{
+    "Weapon": "Greatsword",
+    "Data": [
+        {
+            "name": "Buster Sword I",
+            "Weapon_Number": 7
+        },
+        {
+            "name": "Buster Sword II",
+            "Weapon_Number": 8
+        },
+        {
+            "name": "Buster Sword III",
+            "Weapon_Number": 9
+        },
+        {
+            "name": "Buster Blade I",
+            "Weapon_Number": 10
+        },
+        {
+            "name": "Buster Blade II",
+            "Weapon_Number": 11
+        },
+        {
+            "name": "Buster Blade III",
+            "Weapon_Number": 12
+        },
+        {
+            "name": "Chrome Razor I",
+            "Weapon_Number": 13
+        },
+        {
+            "name": "Chrome Razor II",
+            "Weapon_Number": 14
+        },
+        {
+            "name": "Nergal Judicator",
+            "Weapon_Number": 15
+        },
+        {
+            "name": "Purgation's Atrocity",
+            "Weapon_Number": 16
+        },
+        {
+            "name": "Thunder Blade Sword I",
+            "Weapon_Number": 17
+        },
+        {
+            "name": "Thunder Blade Sword II",
+            "Weapon_Number": 18
+        },
+        {
+            "name": "Lightning Punisher I",
+            "Weapon_Number": 19
+        },
+        {
+            "name": "Lightning Punisher II",
+            "Weapon_Number": 20
+        },
+        {
+            "name": "Lightning Punisher III",
+            "Weapon_Number": 21
+        },
+        {
+            "name": "Freeze Blade I",
+            "Weapon_Number": 22
+        },
+        {
+            "name": "Freeze Blade II",
+            "Weapon_Number": 23
+        },
+        {
+            "name": "Frost Blaze I",
+            "Weapon_Number": 24
+        },
+        {
+            "name": "Frost Blaze I",
+            "Weapon_Number": 25
+        },
+        {
+            "name": "Jagras Blade I",
+            "Weapon_Number": 26
+        },
+        {
+            "name": "Jagras Blade II",
+            "Weapon_Number": 27
+        },
+        {
+            "name": "Jagras Blade III",
+            "Weapon_Number": 28
+        },
+        {
+            "name": "Jagras Hacker I",
+            "Weapon_Number": 29
+        },
+        {
+            "name": "Jagras Hacker II",
+            "Weapon_Number": 30
+        },
+        {
+            "name": "Jagras Hacker III",
+            "Weapon_Number": 31
+        },
+        {
+            "name": "Girros Blade I",
+            "Weapon_Number": 32
+        },
+        {
+            "name": "Girros Blade II",
+            "Weapon_Number": 33
+        },
+        {
+            "name": "Malady's Kiss I",
+            "Weapon_Number": 34
+        },
+        {
+            "name": "Malady's Kiss II",
+            "Weapon_Number": 35
+        },
+        {
+            "name": "Malady's Kiss III",
+            "Weapon_Number": 36
+        },
+        {
+            "name": "Lava Blaze I",
+            "Weapon_Number": 37
+        },
+        {
+            "name": "Lava Blaze II",
+            "Weapon_Number": 38
+        },
+        {
+            "name": "Blooming Blade I",
+            "Weapon_Number": 39
+        },
+        {
+            "name": "Blooming Blade II",
+            "Weapon_Number": 40
+        },
+        {
+            "name": "Blooming Blade III",
+            "Weapon_Number": 41
+        },
+        {
+            "name": "Datura Blaze I",
+            "Weapon_Number": 42
+        },
+        {
+            "name": "Datura Blaze II",
+            "Weapon_Number": 43
+        },
+        {
+            "name": "Datura Blaze III",
+            "Weapon_Number": 44
+        },
+        {
+            "name": "Flame Blade I",
+            "Weapon_Number": 45
+        },
+        {
+            "name": "Flame Blade II",
+            "Weapon_Number": 46
+        },
+        {
+            "name": "Red Wing",
+            "Weapon_Number": 47
+        },
+        {
+            "name": "Blue Wing",
+            "Weapon_Number": 48
+        },
+        {
+            "name": "Rathalos Glinsword",
+            "Weapon_Number": 49
+        },
+        {
+            "name": "Bone Blade I",
+            "Weapon_Number": 50
+        },
+        {
+            "name": "Bone Blade II",
+            "Weapon_Number": 51
+        },
+        {
+            "name": "Bone Blade III",
+            "Weapon_Number": 52
+        },
+        {
+            "name": "Bone Slasher I",
+            "Weapon_Number": 53
+        },
+        {
+            "name": "Bone Slasher II",
+            "Weapon_Number": 54
+        },
+        {
+            "name": "Bone Slasher III",
+            "Weapon_Number": 55
+        },
+        {
+            "name": "Giant Jawblade I",
+            "Weapon_Number": 56
+        },
+        {
+            "name": "Giant Jawblade II",
+            "Weapon_Number": 57
+        },
+        {
+            "name": "Hazak Kys",
+            "Weapon_Number": 58
+        },
+        {
+            "name": "Leviathan's Fury",
+            "Weapon_Number": 59
+        },
+        {
+            "name": "Flammenzahn",
+            "Weapon_Number": 60
+        },
+        {
+            "name": "Flammenzahn+",
+            "Weapon_Number": 61
+        },
+        {
+            "name": "Gnashing Flammenzahn",
+            "Weapon_Number": 62
+        },
+        {
+            "name": "Aqua Slasher I",
+            "Weapon_Number": 63
+        },
+        {
+            "name": "Aqua Slasher II",
+            "Weapon_Number": 64
+        },
+        {
+            "name": "Aqua Slasher III",
+            "Weapon_Number": 65
+        },
+        {
+            "name": "Water Golem I",
+            "Weapon_Number": 66
+        },
+        {
+            "name": "Water Golem II",
+            "Weapon_Number": 67
+        },
+        {
+            "name": "Water Golem III",
+            "Weapon_Number": 68
+        },
+        {
+            "name": "Carapace Buster I",
+            "Weapon_Number": 69
+        },
+        {
+            "name": "Carapace Buster II",
+            "Weapon_Number": 70
+        },
+        {
+            "name": "Carapace Buster III",
+            "Weapon_Number": 71
+        },
+        {
+            "name": "Barroth Shredder I",
+            "Weapon_Number": 72
+        },
+        {
+            "name": "Barroth Shredder II",
+            "Weapon_Number": 73
+        },
+        {
+            "name": "Barroth Shredder III",
+            "Weapon_Number": 74
+        },
+        {
+            "name": "Spiked Blade I",
+            "Weapon_Number": 75
+        },
+        {
+            "name": "Spiked Blade II",
+            "Weapon_Number": 76
+        },
+        {
+            "name": "Radobaan Slab I",
+            "Weapon_Number": 77
+        },
+        {
+            "name": "Radobaan Slab II",
+            "Weapon_Number": 78
+        },
+        {
+            "name": "Radobaan Slab III",
+            "Weapon_Number": 79
+        },
+        {
+            "name": "Dragonbone Cleaver I",
+            "Weapon_Number": 80
+        },
+        {
+            "name": "Dragonbone Cleaver II",
+            "Weapon_Number": 81
+        },
+        {
+            "name": "Dragonbone Cleaver III",
+            "Weapon_Number": 82
+        },
+        {
+            "name": "Magda Potestas I",
+            "Weapon_Number": 83
+        },
+        {
+            "name": "Magda Potestas II",
+            "Weapon_Number": 84
+        },
+        {
+            "name": "Thundersword",
+            "Weapon_Number": 85
+        },
+        {
+            "name": "Kirin Thundersword",
+            "Weapon_Number": 86
+        },
+        {
+            "name": "King Thundersword",
+            "Weapon_Number": 87
+        },
+        {
+            "name": "Blacksteel Chopper I",
+            "Weapon_Number": 88
+        },
+        {
+            "name": "Blacksteel Chopper II",
+            "Weapon_Number": 89
+        },
+        {
+            "name": "Icesteel Edge",
+            "Weapon_Number": 90
+        },
+        {
+            "name": "Daora's Decimator",
+            "Weapon_Number": 91
+        },
+        {
+            "name": "Xeno Maliq",
+            "Weapon_Number": 92
+        },
+        {
+            "name": "Wyvern Jawblade",
+            "Weapon_Number": 93
+        },
+        {
+            "name": "Great Wyvern Jawblade",
+            "Weapon_Number": 94
+        },
+        {
+            "name": "Berserker Sword",
+            "Weapon_Number": 95
+        },
+        {
+            "name": "Anguish",
+            "Weapon_Number": 96
+        },
+        {
+            "name": "Wyvern Ignition \"Steel\"",
+            "Weapon_Number": 97
+        },
+        {
+            "name": "Wyvern Ignition \"Impact\"",
+            "Weapon_Number": 98
+        },
+        {
+            "name": "Gold Water Fellsword",
+            "Weapon_Number": 99
+        },
+        {
+            "name": "Gold Ice Fellsword",
+            "Weapon_Number": 100
+        },
+        {
+            "name": "Gold Sleep Fellsword",
+            "Weapon_Number": 101
+        },
+        {
+            "name": "Glutton Gold Fellsword",
+            "Weapon_Number": 102
+        },
+        {
+            "name": "Spew Gold Fellsword",
+            "Weapon_Number": 103
+        },
+        {
+            "name": "Mud Gold Fellsword",
+            "Weapon_Number": 104
+        },
+        {
+            "name": "Numb Gold Fellsword",
+            "Weapon_Number": 105
+        },
+        {
+            "name": "Tar Gold Fellsword",
+            "Weapon_Number": 106
+        },
+        {
+            "name": "Decay Gold Fellsword",
+            "Weapon_Number": 107
+        },
+        {
+            "name": "King Gold Fellsword",
+            "Weapon_Number": 108
+        },
+        {
+            "name": "Erupter Gold Fellsword",
+            "Weapon_Number": 109
+        },
+        {
+            "name": "Magma Gold Fellsword",
+            "Weapon_Number": 110
+        },
+        {
+            "name": "Taroth Blaze \"Glutton\"",
+            "Weapon_Number": 111
+        },
+        {
+            "name": "Taroth Blaze \"Spew\"",
+            "Weapon_Number": 112
+        },
+        {
+            "name": "Taroth Blaze \"Mud\"",
+            "Weapon_Number": 113
+        },
+        {
+            "name": "Taroth Blaze \"Numb\"",
+            "Weapon_Number": 114
+        },
+        {
+            "name": "Taroth Blaze \"Tar\"",
+            "Weapon_Number": 115
+        },
+        {
+            "name": "Taroth Blaze \"Decay\"",
+            "Weapon_Number": 116
+        },
+        {
+            "name": "Taroth Blaze \"King\"",
+            "Weapon_Number": 117
+        },
+        {
+            "name": "Taroth Blaze \"Erupter\"",
+            "Weapon_Number": 118
+        },
+        {
+            "name": "Taroth Blaze \"Magma\"",
+            "Weapon_Number": 119
+        },
+        {
+            "name": "Taroth Blaze \"Water\"",
+            "Weapon_Number": 120
+        },
+        {
+            "name": "Taroth Blaze \"Ice\"",
+            "Weapon_Number": 121
+        },
+        {
+            "name": "Taroth Blaze \"Sleep\"",
+            "Weapon_Number": 122
+        },
+        {
+            "name": "Empress Galea",
+            "Weapon_Number": 123
+        },
+        {
+            "name": "Empress Galea \"Blaze\"",
+            "Weapon_Number": 124
+        },
+        {
+            "name": "Empress Galea \"Ruin\"",
+            "Weapon_Number": 125
+        },
+        {
+            "name": "Empress Galea \"Styx\"",
+            "Weapon_Number": 126
+        },
+        {
+            "name": "Taroth Blaze \"Thunder\"",
+            "Weapon_Number": 127
+        },
+        {
+            "name": "Kjárr Fellsword \"Numb\"",
+            "Weapon_Number": 128
+        },
+        {
+            "name": "Kjárr Fellsword \"Decay\"",
+            "Weapon_Number": 129
+        },
+        {
+            "name": "Kjárr Fellsword \"King\"",
+            "Weapon_Number": 130
+        },
+        {
+            "name": "Kjárr Fellsword \"Magma\"",
+            "Weapon_Number": 131
+        },
+        {
+            "name": "Kjárr Fellsword \"Water\"",
+            "Weapon_Number": 132
+        },
+        {
+            "name": "Kjárr Fellsword \"Ice\"",
+            "Weapon_Number": 133
+        },
+        {
+            "name": "Kjárr Fellsword \"Thunder\"",
+            "Weapon_Number": 134
+        },
+        {
+            "name": "Defender Great Sword I",
+            "Weapon_Number": 135
+        },
+        {
+            "name": "Defender Great Sword II",
+            "Weapon_Number": 136
+        },
+        {
+            "name": "Defender Great Sword III",
+            "Weapon_Number": 137
+        },
+        {
+            "name": "Defender Great Sword IV",
+            "Weapon_Number": 138
+        },
+        {
+            "name": "Defender Great Sword V",
+            "Weapon_Number": 139
+        },
+        {
+            "name": "Chrome Deathscythe I",
+            "Weapon_Number": 149
+        },
+        {
+            "name": "Chrome Deathscythe II",
+            "Weapon_Number": 150
+        },
+        {
+            "name": "Chrome Deathscythe III",
+            "Weapon_Number": 151
+        },
+        {
+            "name": "Ruinous Atrocity",
+            "Weapon_Number": 152
+        },
+        {
+            "name": "Lightning Punisher IV",
+            "Weapon_Number": 153
+        },
+        {
+            "name": "Severing Bolt I",
+            "Weapon_Number": 154
+        },
+        {
+            "name": "Severing Bolt II",
+            "Weapon_Number": 155
+        },
+        {
+            "name": "Frost Blaze III",
+            "Weapon_Number": 157
+        },
+        {
+            "name": "Icicle Fang",
+            "Weapon_Number": 158
+        },
+        {
+            "name": "Icicle Fang+",
+            "Weapon_Number": 159
+        },
+        {
+            "name": "Paladire",
+            "Weapon_Number": 160
+        },
+        {
+            "name": "Jagras Deathclaw I",
+            "Weapon_Number": 161
+        },
+        {
+            "name": "Jagras Deathclaw II",
+            "Weapon_Number": 162
+        },
+        {
+            "name": "Mammoth Greataxe I",
+            "Weapon_Number": 163
+        },
+        {
+            "name": "Mammoth Greataxe II",
+            "Weapon_Number": 164
+        },
+        {
+            "name": "Naaga Guillotine I",
+            "Weapon_Number": 166
+        },
+        {
+            "name": "Naaga Guillotine II",
+            "Weapon_Number": 167
+        },
+        {
+            "name": "Hidden Blade I",
+            "Weapon_Number": 168
+        },
+        {
+            "name": "Hidden Blade II",
+            "Weapon_Number": 169
+        },
+        {
+            "name": "Pyre Cleaver I",
+            "Weapon_Number": 170
+        },
+        {
+            "name": "Pyre Cleaver II",
+            "Weapon_Number": 171
+        },
+        {
+            "name": "Glavenus Blaze I",
+            "Weapon_Number": 172
+        },
+        {
+            "name": "Glavenus Blaze II",
+            "Weapon_Number": 173
+        },
+        {
+            "name": "Datura Hellspine I",
+            "Weapon_Number": 174
+        },
+        {
+            "name": "Datura Hellspine II",
+            "Weapon_Number": 175
+        },
+        {
+            "name": "Laguna Golem I",
+            "Weapon_Number": 176
+        },
+        {
+            "name": "Laguna Golem II",
+            "Weapon_Number": 177
+        },
+        {
+            "name": "Rathalos Glinsword+",
+            "Weapon_Number": 178
+        },
+        {
+            "name": "Rathflame Glinsword",
+            "Weapon_Number": 179
+        },
+        {
+            "name": "Rathalos Gleamsword",
+            "Weapon_Number": 180
+        },
+        {
+            "name": "Ogre's Jaw I",
+            "Weapon_Number": 181
+        },
+        {
+            "name": "Ogre's Jaw II",
+            "Weapon_Number": 182
+        },
+        {
+            "name": "Ogre's Jaw III",
+            "Weapon_Number": 183
+        },
+        {
+            "name": "Icewing",
+            "Weapon_Number": 184
+        },
+        {
+            "name": "Winged Seraphyd",
+            "Weapon_Number": 185
+        },
+        {
+            "name": "Tiger Jawblade",
+            "Weapon_Number": 186
+        },
+        {
+            "name": "Tiger Jawblade+",
+            "Weapon_Number": 187
+        },
+        {
+            "name": "Tigrex Great Sword",
+            "Weapon_Number": 188
+        },
+        {
+            "name": "Monstrous Madness",
+            "Weapon_Number": 189
+        },
+        {
+            "name": "Don Monstro",
+            "Weapon_Number": 190
+        },
+        {
+            "name": "Gnashing Flammenzahn+",
+            "Weapon_Number": 191
+        },
+        {
+            "name": "Lohenzahn",
+            "Weapon_Number": 192
+        },
+        {
+            "name": "Donnerzahn",
+            "Weapon_Number": 193
+        },
+        {
+            "name": "Donnerzahn+",
+            "Weapon_Number": 194
+        },
+        {
+            "name": "Fulguration's Edge",
+            "Weapon_Number": 195
+        },
+        {
+            "name": "Water Golem IV",
+            "Weapon_Number": 196
+        },
+        {
+            "name": "Nyx Razor I",
+            "Weapon_Number": 198
+        },
+        {
+            "name": "Nyx Razor II",
+            "Weapon_Number": 199
+        },
+        {
+            "name": "Barroth Greatedge I",
+            "Weapon_Number": 200
+        },
+        {
+            "name": "Barroth Greatedge II",
+            "Weapon_Number": 201
+        },
+        {
+            "name": "Acid Shredder I",
+            "Weapon_Number": 202
+        },
+        {
+            "name": "Acid Shredder II",
+            "Weapon_Number": 203
+        },
+        {
+            "name": "Radobaan Grindblade I"	,
+            "Weapon_Number": 204
+        },
+        {
+            "name": "Radobaan Grindblade II",
+            "Weapon_Number": 205
+        },
+        {
+            "name": "Dios Blade",
+            "Weapon_Number": 206
+        },
+        {
+            "name": "Brach Attack",
+            "Weapon_Number": 207
+        },
+        {
+            "name": "Dragonseal Sword I",
+            "Weapon_Number": 209
+        },
+        {
+            "name": "Dragonseal Sword II",
+            "Weapon_Number": 210
+        },
+        {
+            "name": "Immovable Dharma",
+            "Weapon_Number": 211
+        },
+        {
+            "name": "Magdaros Volcanblade",
+            "Weapon_Number": 212
+        },
+        {
+            "name": "Emperor Thundersword",
+            "Weapon_Number": 213
+        },
+        {
+            "name": "Daora's Tughril Beg",
+            "Weapon_Number": 214
+        },
+        {
+            "name": "Ultra Wyvern Jawblade",
+            "Weapon_Number": 216
+        },
+        {
+            "name": "Consummate Blade",
+            "Weapon_Number": 217
+        },
+        {
+            "name": "Wyvern Impact \"Silver\"",
+            "Weapon_Number": 218
+        },
+        {
+            "name": "Demon Rod",
+            "Weapon_Number": 219
+        },
+        {
+            "name": "Soulfire Edge \"Blaze\"",
+            "Weapon_Number": 223
+        },
+        {
+            "name": "Soulfire Edge \"Ruin\"",
+            "Weapon_Number": 224
+        },
+        {
+            "name": "Soulfire Edge \"Styx\"",
+            "Weapon_Number": 225
+        },
+        {
+            "name": "Accursed Blade",
+            "Weapon_Number": 226
+        },
+        {
+            "name": "Wildbite",
+            "Weapon_Number": 227
+        },
+        {
+            "name": "Beo Slasher I",
+            "Weapon_Number": 228
+        },
+        {
+            "name": "Beo Slasher II",
+            "Weapon_Number": 229
+        },
+        {
+            "name": "Frozen Speartuna",
+            "Weapon_Number": 230
+        },
+        {
+            "name": "Freezer Speartuna",
+            "Weapon_Number": 231
+        },
+        {
+            "name": "Guild Palace Blade",
+            "Weapon_Number": 232
+        },
+        {
+            "name": "Great Demon Rod",
+            "Weapon_Number": 233
+        },
+        {
+            "name": "Xiphias Gladius",
+            "Weapon_Number": 234
+        },
+        {
+            "name": "Royal Venus Blade",
+            "Weapon_Number": 239
+        }
+    ]
+}
